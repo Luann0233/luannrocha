@@ -2,24 +2,17 @@
   <img align="right" src="https://media2.giphy.com/media/USUIWSteF8DJoc5Snd/giphy.gif" width=15% height=15% />
 </a>
 
-## Hi, Dev! 👋 
+## Hi, Dev! 🤙
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_LU4NN_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fruyymon&screen_name=_LU4NN_)
 [![Discord DM](https://img.shields.io/badge/Discord-LU4NN%235689-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/347719353078251533/)
 ---
 
 <br>
-
-<p>
-  Meu nome é <strong> Luan </strong>, tenho 18 anos e sou do Brasil! Sou apaixonado por tecnologia e procuro sempre aprender e evoluir cada vez mais.
-</p>
 <p>
   My name is <strong>Luan</strong>, I'm 18 years old and I'm from Brazil! I am passionate about technology and I am always looking to learn and evolve more and more.
 </p>
 <br>
-
-> "*If you can't make it good, at least make it look good.*" - Bill Gates
-
 
 
 <h3 align="center">Languages and Tools:</h3>
