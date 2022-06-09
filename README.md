@@ -5,7 +5,7 @@
 ## Hi, Dev! 🤙
 
 <p>
-  My name is <strong>Luan</strong>, I'm 18 years old and I'm from Brazil! I am passionate about technology and I am always looking to learn and evolve more and more.
+  My name is <strong>Luan</strong>, I'm 20 years old and I'm from Brazil! I am passionate about technology and I am always looking to learn and evolve more and more.
 </p>
 <br>
 
